@@ -1,4 +1,3 @@
-// Program.cs
 using System;
 
 public class Program
@@ -35,7 +34,3 @@ public class Program
         Console.WriteLine("Congratulations! All words are hidden.");
     }
 }
-
-// Showing Creativity and Exceeding Requirements:
-// The HideRandomWords method in the Scripture class (in Scripture.cs) now attempts to only hide words that are not already hidden.
-// It maintains a list of unhidden words and selects randomly from that list. This prevents the program from repeatedly hiding words that are already obscured.
